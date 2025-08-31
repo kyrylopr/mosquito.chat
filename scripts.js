@@ -1,0 +1,1 @@
+function fakeAnswer(){alert("Demo only")};
